@@ -1,0 +1,18 @@
+.col-md-2{
+    padding-left: 0px;
+    /* margin-left: 0px; */
+}
+
+.col-md-10{
+    padding: 0px;
+    /* margin-left: 0px; */
+}
+
+.nopadding{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* .row{
+    margin: 0px;
+} */

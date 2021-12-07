@@ -52,7 +52,7 @@
 
 .table{
     background-color: #ffffff;
-    overflow-x: scroll;
+    overflow-x: hidden;
 }
 
 table, th, td {
